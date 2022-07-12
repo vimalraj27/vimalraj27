@@ -1,5 +1,5 @@
 <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/36359901/133745890-c7095692-cbe7-416b-bef8-3754aaa3332a.gif"/>
-Hi, I'm Kaviya Periyasamy 😉, a developer by profession and an educator by heart. I'm an open-source enthusiast. Beside's programming, I like delicious food 🥗🥩🌮🍣 and love doing hustles 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Vimalraj 😉, a developer by profession and an educator by heart. I'm an open-source enthusiast. Beside's programming, I like delicious food 🥗🥩🌮🍣 and love doing hustles 🏃⛹️‍♂️🏋🏼‍♂️.
 
   <img align="right" width="250px" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
   
@@ -43,19 +43,19 @@ src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/an
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaviyaPeriyasamy&layout=compact)](https://github.com/KaviyaPeriyasamy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimalraj27&layout=compact)](https://github.com/vimalraj27/github-readme-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaviyaPeriyasamy&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vimalraj27&theme=radical)](https://git.io/streak-stats)
 
-![Kaviya's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaviyaPeriyasamy&show_icons=true&theme=radical)
+![Kaviya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimalraj27&show_icons=true&theme=radical)
 
 
 <h4 align="left">Visitor's count :eyes:</h4>
 
-<p align="left"><img src="https://profile-counter.glitch.me/{KaviyaPeriyasamy}/count.svg" alt="KaviyaPeriyasamy :: Visitor's Count" /></p>
+<p align="left"><img src="https://profile-counter.glitch.me/{vimalraj27}/count.svg" alt="vimalraj27 :: Visitor's Count" /></p>
 
-[![Kaviya's github activity graph](https://activity-graph.herokuapp.com/graph?username=KaviyaPeriyasamy&theme=react-dark)](https://github.com/KaviyaPeriyasamy/github-readme-activity-graph)
+[![Kaviya's github activity graph](https://activity-graph.herokuapp.com/graph?username=vimalraj27&theme=react-dark)](https://github.com/vimalraj27/github-readme-activity-graph)
 
 
 <h3 align="center">
@@ -64,11 +64,11 @@ src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/an
 <br/>
 
 <p align="center">
- <a href="mailto:kaviyaperiyasamy22@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+ <a href="mailto:vimalraj2722@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/kaviya-periyasamy"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/kaviya_nov3"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="https://medium.com/@kaviyaperiyasamy22"><img src="https://user-images.githubusercontent.com/36359901/133828368-71462c0d-9c95-47fd-9d40-d7e38aff9f07.png" width="30px" alt="medium"></a> &nbsp; &nbsp;
+  <a href="https://medium.com/@vimalraj2722"><img src="https://user-images.githubusercontent.com/36359901/133828368-71462c0d-9c95-47fd-9d40-d7e38aff9f07.png" width="30px" alt="medium"></a> &nbsp; &nbsp;
 
 </p>
 
-### Show some ❤️ by starring :star: [my repo's](https://github.com/KaviyaPeriyasamy) !
+### Show some ❤️ by starring :star: [my repo's](https://github.com/vimalraj27) !
