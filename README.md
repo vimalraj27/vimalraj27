@@ -54,9 +54,6 @@ src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/an
 
 <p align="left"><img src="https://profile-counter.glitch.me/{vimalraj27}/count.svg" alt="vimalraj27 :: Visitor's Count" /></p>
 
-[![Kaviya's github activity graph](https://activity-graph.herokuapp.com/graph?username=vimalraj27&theme=react-dark)](https://github.com/vimalraj27/github-readme-activity-graph)
-
-
 <h3 align="center">
   Get in touch via
 </h3>
