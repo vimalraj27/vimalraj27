@@ -60,7 +60,7 @@ src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/an
 <br/>
 
 <p align="center">
- <a href="mailto:vimalraj2722@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+ <a href="mailto:"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/kaviya-periyasamy"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/kaviya_nov3"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
   <a href="https://medium.com/@vimalraj2722"><img src="https://user-images.githubusercontent.com/36359901/133828368-71462c0d-9c95-47fd-9d40-d7e38aff9f07.png" width="30px" alt="medium"></a> &nbsp; &nbsp;
